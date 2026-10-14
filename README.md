@@ -77,6 +77,7 @@
 - **[Woebot](https://woebothealth.com/)** - An AI chatbot for mental health support.
 - **[Wysa](https://www.wysa.io/)** - An AI-driven mental health and well-being chatbot.
 - **[Ginger](https://www.ginger.com/)** - AI-powered behavioral health coaching and therapy.
+- **[Healify](https://www.healify.ai/)** - AI-powered health and wellness coach integrating wearable data, personalized nutrition, and mindful check-ins.
 - **[Mindstrong](https://mindstrong.com/)** - AI tools for tracking and managing mental health.
 - **[Cognoa](https://cognoa.com/)** - AI-based diagnostics for behavioral and developmental disorders.
 
